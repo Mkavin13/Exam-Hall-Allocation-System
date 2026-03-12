@@ -145,9 +145,7 @@ function Login() {
                             </button>
                         </form>
 
-                        <p className="mt-6 text-center text-xs text-gray-400">
-                            Default credentials: <span className="font-medium text-gray-600">admin / admin123</span>
-                        </p>
+
                     </div>
                 </div>
             </div>
